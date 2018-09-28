@@ -1,0 +1,12 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.idea
+*.gitosc
+target/*
+target
+META-INF
+webdemo.iml
